@@ -1,4 +1,5 @@
 .env
+in.txt
 *.log
 dist/
 build/
